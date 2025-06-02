@@ -10,10 +10,6 @@
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Corrie James"
-:a
-:q
-:q
-:q
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
