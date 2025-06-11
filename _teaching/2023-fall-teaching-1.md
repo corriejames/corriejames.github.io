@@ -1,5 +1,5 @@
 ---
-title: "Math Tutoring for L1 Students, Fall Semester of 2023"
+title: "Math Tutoring for L1 Students, Fall Semester of 2023, 9h"
 collection: teaching
 type: "Tutorat"
 #permalink: /teaching/2014-spring-teaching-1
