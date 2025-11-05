@@ -7,11 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Access the latest version of my CV [here](/files/UpdatedCV.pdf){:target="_blank"}.
 
-Education
-======
-* Ph.D in Applied Mathematics, Université de Paris-Saclay and Université de Versailles Saint-Quentin-en-Yvelines, in progress
-* Master's in Mathematical Modelling, Sorbonne Université, 2023
-* Licence in Mathematics and Applications, Sorbonne Université, 2021
+
 
