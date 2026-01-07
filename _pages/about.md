@@ -15,4 +15,4 @@ Please check out the Publications tab for our recent paper on the unique continu
 
 Current Work
 ======
-We are working on model correction and Bayesian parameter estimation for cardiovascular applications. 
+We are working on model correction and Bayesian parameter estimation for cardiovascular applications. To tackle the parameter estimation problem, we propose an optimal relaxation method to accelerate the Stein Variational Gradient Descent. 
